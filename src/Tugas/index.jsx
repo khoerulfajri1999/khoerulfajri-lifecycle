@@ -6,7 +6,6 @@ export default class Index extends React.Component{
         return(
             <div>
                 <Lifecycle />
-                <h1>App component</h1>
             </div>
         )
     }
